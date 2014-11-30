@@ -1,0 +1,447 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fir",
+				"FirstOrDefault(Func<TSource, bool> predicate)	TSource"
+			],
+			[
+				"First",
+				"FirstOrDefault<TSource>()	TSource"
+			],
+			[
+				"v",
+				"var	var"
+			],
+			[
+				"Dictio",
+				"Dictionary<TKey, TValue>()	Dictionary()"
+			],
+			[
+				"str",
+				"string	string"
+			],
+			[
+				"in",
+				"int	int"
+			],
+			[
+				"Sort",
+				"SortedDictionary<TKey, TValue>()	SortedDictionary()"
+			],
+			[
+				"D",
+				"Decimal(double value)	Decimal(double value)"
+			],
+			[
+				"Li",
+				"List<T>()	List()"
+			],
+			[
+				"sr",
+				"string	string"
+			],
+			[
+				"Dic",
+				"Dictionary<TKey, TValue>()	Dictionary()"
+			],
+			[
+				"Diction",
+				"Dictionary<TKey, TValue>(IDictionary<TKey, TValue> dictionary, IEqualityComparer<TKey> comparer)	Dictionary(IDictionary<TKey, TValue> dictionary, IEqualityComparer<TKey> comparer)"
+			],
+			[
+				"Dictionar",
+				"Dictionary<TKey, TValue>(IEqualityComparer<TKey> comparer)	Dictionary(IEqualityComparer<TKey> comparer)"
+			],
+			[
+				"L",
+				"List<T>()	"
+			],
+			[
+				"List",
+				"List<	List()"
+			],
+			[
+				"Co",
+				"Collections"
+			],
+			[
+				"Overri",
+				"OverrideableClasswwwwwwwwww()	OverrideableClasswwwwwwwwww()"
+			],
+			[
+				"clas",
+				"classss	classss"
+			],
+			[
+				"OVerr",
+				"OverrideableClass()	OverrideableClass()"
+			],
+			[
+				"Tos",
+				"ToString()	string ToString()"
+			],
+			[
+				"pr",
+				"pr	Property (Read-Only)"
+			],
+			[
+				"true",
+				"True"
+			],
+			[
+				"p",
+				"public	public"
+			],
+			[
+				"Re",
+				"RestClient	RestClient"
+			],
+			[
+				"for",
+				"foreach	foreach"
+			],
+			[
+				"d",
+				"Diagnostics	Diagnostics"
+			],
+			[
+				"Ov",
+				"OverrideableClass	OverrideableClass"
+			],
+			[
+				"Con",
+				"Console	Console"
+			],
+			[
+				"my",
+				"myList"
+			],
+			[
+				"Str",
+				"String(	String(char c, int count)"
+			],
+			[
+				"Lis",
+				"List<	List()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/xbuild.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"omni",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"buil",
+				"OmniSharpSublime: Build"
+			],
+			[
+				"omnisharp",
+				"OmniSharpSublime: Build"
+			],
+			[
+				"",
+				"Build: ReBuild"
+			],
+			[
+				"bui",
+				"Build: ReBuild"
+			],
+			[
+				"om",
+				"OmniSharpSublime: Add New Class"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"document",
+				"Snippet: Summary documentation tag"
+			],
+			[
+				"documen",
+				"Snippet: C documentation tag"
+			],
+			[
+				"build",
+				"Build: ReBuild"
+			],
+			[
+				"BUI",
+				"Build: Cleanpp"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+			"print('\\n'*100)",
+			"view.run_command('example')",
+			"sublime.active_window().run_command('example_command')",
+			"sublime.active_windows().run_command('example_command')",
+			"sublime.run_command('example_command')",
+			"sublime.run_command('example')",
+			"print('\\n'*100)",
+			"window.run_command('exec', {\"cmd\":[\"mono /Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe \\\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\\\" /silent\"],\"shell\":\"true\"})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"\\\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\\\"\",\"/silent\"],\"shell\":\"true\"})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"\\\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\\\"\",\"/silent\"],\"shell\":true})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\",\"/silent\"]})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"\\\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\\\"\",\"/silent\"]})",
+			"window.run_command(\"show_panel\", {\"panel\": \"output.variable_get\"})",
+			"window.run_command('exec', {\"cmd\": [ \"xbuild\", \"/property:GenerateFullPaths=true\", \"/nologo\", \"/v:q\" ], \"path\": \"/usr/bin/\", \"working_dir\": sublime.active_window().folders()[0], \"file_regex\": \"^([\\\\d\\\\w:/\\\\.-]*)\\\\((\\\\d+),(\\\\d+)\\\\)\\\\s*(.*)$\"})",
+			"window.run_command('exec', {\"cmd\": [ \"xbuild\", \"/property:GenerateFullPaths=true\", \"/nologo\", \"/v:q\" ], \"path\": \"/usr/bin/\", \"working_dir\": sublime.active_window().folders()[0]})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\",\"/silent\"],\"file_regex\": \"^ (.*)\\\\(([0-9]*),([0-9]*)\"})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\",\"/silent\"],\"file_regex\": \"^([\\\\d\\\\w:/\\\\.-]*)\\\\((\\\\d+),(\\\\d+)\\\\)\\\\s*(.*)$\"})",
+			"window.run_command('exec', {\"cmd\": [ \"xbuild\", \"/property:GenerateFullPaths=true\", \"/nologo\", \"/v:q\" ], \"path\": \"/usr/bin/\", \"working_dir\": sublime.active_window().folders()[0], \"file_regex\": \"^([\\\\d\\\\w:/\\\\.-]*)\\\\((\\\\d+),(\\\\d+)\\\\)\\\\s*(.*)$\"})",
+			"window.run_command('exec', {\"cmd\": [ \"xbuild\", \"/property:GenerateFullPaths=true\", \"/nologo\", \"/v:q\" ], \"path\": \"/usr/bin/\", \"working_dir\": sublime.active_window.folders()[0], \"file_regex\": \"^([\\\\d\\\\w:/\\\\.-]*)\\\\((\\\\d+),(\\\\d+)\\\\)\\\\s*(.*)$\"})",
+			"window.run_command('exec', {\"cmd\": [ \"xbuild\", \"/property:GenerateFullPaths=true\", \"/nologo\", \"/v:q\" ], \"path\": \"/usr/bin/\",  \"file_regex\": \"^([\\\\d\\\\w:/\\\\.-]*)\\\\((\\\\d+),(\\\\d+)\\\\)\\\\s*(.*)$\"})",
+			"window.run_command('exec', {\"cmd\": [ \"xbuild\", \"/property:GenerateFullPaths=true\", \"/nologo\", \"/v:q\" ], \"path\": \"/usr/bin/\", \"working_dir\": \"${project_path:${folder}}\", \"file_regex\": \"^([\\\\d\\\\w:/\\\\.-]*)\\\\((\\\\d+),(\\\\d+)\\\\)\\\\s*(.*)$\"})",
+			"window.run_command('exec', \"cmd\": [ \"xbuild\", \"/property:GenerateFullPaths=true\", \"/nologo\", \"/v:q\" ], \"path\": \"/usr/bin/\", \"working_dir\": \"${project_path:${folder}}\", \"file_regex\": \"^([\\\\d\\\\w:/\\\\.-]*)\\\\((\\\\d+),(\\\\d+)\\\\)\\\\s*(.*)$\")",
+			"window.run_command('build')",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\",\"/silent\"],\"file_regex\": \"^([\\\\d\\\\w:/\\\\.-]*)\\\\((\\\\d+),(\\\\d+)\\\\)\\\\s*(.*)$\"})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\",\"/silent\"]})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"-silent\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\"]})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"/silent\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\"]})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"silent\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\"]})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.clr4.x86.exe\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\"]})",
+			"window.run_command('exec', {\"cmd\":[\"mono\", \"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.cl4.x86.exe\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\"]})",
+			"window.run_command('exec', {\"cmd\":[\"/Users/jonathan/Projects/Nancy/tools/xunit/xunit.console.cl4.x86.exe\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\"]})",
+			"window.run_command('exec', {\"cmd\":[\"~/jonathan/Projects/Nancy/tools/xunit/xunit.console.cl4.x86.exe\",\"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/bin/Debug/testconsoleprj.tests.dll\"]})",
+			"window.run_command('build', {\"selector\":\"D\"})",
+			"window.run_command('build', {\"name\":\"D\"})",
+			"window.run_command('build', {})",
+			"window.run_command('build')",
+			"side_bar_new_file",
+			"sublime.log_result_regex(True)",
+			" sublime.log_result_regex(True)",
+			"print('\\n'*100)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jonathan/Projects/implementinterface"
+	],
+	"file_history":
+	[
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/testconsoleprj.csproj",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/OverrideableClass.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/bob/jim/newinterface.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/fes/ddff/newinterface.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/Program.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/newinterface.cs",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/mynewclass.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/newclass.cs",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/FancySomethingOrAnother.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/OverriddenClass.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/ISomethingOrAnother.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj.tests/MyTestClass.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/DefaultSomethingOrAnother.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/Properties/newinterface.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/Properties/newclasslll.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/Properties/newclass.cs",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/xbuild.sublime-build",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/Properties/newclass9.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/Properties/AssemblyInfo.cs",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/NewClass.cs",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/my.sublime-snippet",
+		"/Users/jonathan/Projects/vq/build.fsx",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/Properties/poo.txt",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/Properties/kkkl",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/nnn.txt",
+		"/Users/jonathan/Projects/Nancy.CollectionJson/.gitignore",
+		"/Users/jonathan/Projects/testconsoleprj/testconsoleprj/app.config",
+		"/Users/jonathan/Projects/testconsoleprj/packages/Nancy.0.23.0/lib/net40/Nancy.XML",
+		"/Users/jonathan/Projects/testconsoleprj/Program.cs",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/jonathan/Downloads/FAKE-Calculator/build.bat",
+		"/Users/jonathan/Downloads/FAKE-Calculator/build.fsx",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/jonathan/Projects/testconsoleprj/untitled.sublime-project",
+		"/Users/jonathan/Projects/sublimetesting/Program.cs",
+		"/Users/jonathan/Projects/sublimetesting/McuModule.cs",
+		"/Users/jonathan/Projects/sublimetesting/untitled.sublime-project",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"delete",
+			"public",
+			"”"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 303.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 93.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Program.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
